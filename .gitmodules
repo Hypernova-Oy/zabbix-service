@@ -1,0 +1,3 @@
+[submodule "roles/ansible-zabbix-server"]
+	path = roles/ansible-zabbix-server
+	url = https://github.com/dj-wasabi/ansible-zabbix-server.git
