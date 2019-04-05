@@ -7,3 +7,6 @@
 [submodule "roles/ansible-zabbix-proxy"]
 	path = roles/ansible-zabbix-proxy
 	url = https://github.com/dj-wasabi/ansible-zabbix-proxy.git
+[submodule "roles/ansible-zabbix-web"]
+	path = roles/ansible-zabbix-web
+	url = https://github.com/dj-wasabi/ansible-zabbix-web.git
